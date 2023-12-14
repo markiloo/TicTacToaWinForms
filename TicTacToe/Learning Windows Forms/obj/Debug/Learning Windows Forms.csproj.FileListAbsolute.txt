@@ -1,0 +1,11 @@
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\bin\Debug\Learning Windows Forms.exe.config
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\bin\Debug\Learning Windows Forms.exe
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\bin\Debug\Learning Windows Forms.pdb
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning_Windows_Forms.Properties.Resources.resources
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.csproj.GenerateResource.cache
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.exe
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\Learning Windows Forms.pdb
+C:\Users\ignac\source\repos\Learning Windows Forms\Learning Windows Forms\obj\Debug\main_window_methods.main_window.resources
